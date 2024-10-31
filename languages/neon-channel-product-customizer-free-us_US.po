@@ -1,0 +1,2291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: neon-channel-product-customizer-free\n"
+"POT-Creation-Date: 2024-07-30 18:34+0100\n"
+"PO-Revision-Date: 2024-07-30 18:34+0100\n"
+"Last-Translator: \n"
+"Language-Team: vertim corders\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;_x;esc_html_x\n"
+"X-Poedit-SearchPath-0: classes\n"
+"X-Poedit-SearchPath-1: classes\n"
+"X-Poedit-SearchPath-2: includes\n"
+"X-Poedit-SearchPath-3: neon-channel-product-customizer-free.php\n"
+"X-Poedit-SearchPathExcluded-0: .gitignore\n"
+"X-Poedit-SearchPathExcluded-1: changelog.txt\n"
+"X-Poedit-SearchPathExcluded-2: README.txt\n"
+"X-Poedit-SearchPathExcluded-3: assets\n"
+"X-Poedit-SearchPathExcluded-4: node_modules\n"
+"X-Poedit-SearchPathExcluded-5: public\n"
+
+#: classes/ncpc-config.php:32 classes/ncpc-config.php:33
+#: classes/ncpc-config.php:42
+msgid "NCPC Configurations"
+msgstr ""
+
+#: classes/ncpc-config.php:34 classes/ncpc-config.php:35
+#: classes/ncpc-config.php:37
+msgid "New NCPC configuration"
+msgstr ""
+
+#: classes/ncpc-config.php:36
+msgid "Edit NCPC configuration"
+msgstr ""
+
+#: classes/ncpc-config.php:38
+msgid "View NCPC configuration"
+msgstr ""
+
+#: classes/ncpc-config.php:39
+msgid "No NCPC configuration found"
+msgstr ""
+
+#: classes/ncpc-config.php:40
+msgid "No NCPC configuration in the trash"
+msgstr ""
+
+#: classes/ncpc-config.php:41
+msgid "Neon Product Designer"
+msgstr ""
+
+#: classes/ncpc-config.php:96
+msgid "NCPC Product Types"
+msgstr ""
+
+#: classes/ncpc-config.php:97 classes/ncpc-config.php:109
+msgid "NCPC Product Type"
+msgstr ""
+
+#: classes/ncpc-config.php:98
+msgid "Search NCPC Product Types"
+msgstr ""
+
+#: classes/ncpc-config.php:99
+msgid "Popular NCPC Product Types"
+msgstr ""
+
+#: classes/ncpc-config.php:100
+msgid "All NCPC Product Type"
+msgstr ""
+
+#: classes/ncpc-config.php:101
+msgid "Edit NCPC Product Type"
+msgstr ""
+
+#: classes/ncpc-config.php:102
+msgid "Update NCPC Product Type"
+msgstr ""
+
+#: classes/ncpc-config.php:103
+msgid "Add New NCPC Product Type"
+msgstr ""
+
+#: classes/ncpc-config.php:104
+msgid "New NCPC Product Type Name"
+msgstr ""
+
+#: classes/ncpc-config.php:105
+msgid "Separate NCPC Product Type with commas"
+msgstr ""
+
+#: classes/ncpc-config.php:106
+msgid "Add or remove NCPC Product Type"
+msgstr ""
+
+#: classes/ncpc-config.php:107
+msgid "Choose from the most used NCPC Product Type"
+msgstr ""
+
+#: classes/ncpc-config.php:108
+msgid "No NCPC Product Type found."
+msgstr ""
+
+#: classes/ncpc-config.php:126
+msgid "NCPC Pricing Modes"
+msgstr ""
+
+#: classes/ncpc-config.php:127 classes/ncpc-config.php:139
+msgid "NCPC Pricing Mode"
+msgstr ""
+
+#: classes/ncpc-config.php:128
+msgid "Search NCPC Pricing Modes"
+msgstr ""
+
+#: classes/ncpc-config.php:129
+msgid "Popular NCPC Pricing Modes"
+msgstr ""
+
+#: classes/ncpc-config.php:130
+msgid "All NCPC Pricing Mode"
+msgstr ""
+
+#: classes/ncpc-config.php:131
+msgid "Edit NCPC Pricing Mode"
+msgstr ""
+
+#: classes/ncpc-config.php:132
+msgid "Update NCPC Pricing Mode"
+msgstr ""
+
+#: classes/ncpc-config.php:133
+msgid "Add New NCPC Pricing Mode"
+msgstr ""
+
+#: classes/ncpc-config.php:134
+msgid "New NCPC Pricing Mode Name"
+msgstr ""
+
+#: classes/ncpc-config.php:135
+msgid "Separate NCPC Pricing Mode with commas"
+msgstr ""
+
+#: classes/ncpc-config.php:136
+msgid "Add or remove NCPC Pricing Mode"
+msgstr ""
+
+#: classes/ncpc-config.php:137
+msgid "Choose from the most used NCPC Pricing Mode"
+msgstr ""
+
+#: classes/ncpc-config.php:138
+msgid "No NCPC Pricing Mode found."
+msgstr ""
+
+#: classes/ncpc-config.php:177
+msgid ""
+"You are trying to access the personalization page without a product to "
+"personalize or your permalink is not on postname."
+msgstr ""
+
+#: classes/ncpc-config.php:178
+msgid ""
+"This page should only be accessed using one of the customization buttons."
+msgstr ""
+
+#: classes/ncpc-design.php:277
+msgid "Download"
+msgstr ""
+
+#: classes/ncpc-design.php:279 classes/ncpc-design.php:423
+#: includes/Admin.php:95
+msgid "Preview"
+msgstr ""
+
+#: classes/ncpc-product-config.php:184
+msgid "Custom Options"
+msgstr ""
+
+#: classes/ncpc-product-config.php:246
+msgid "Attach this product to a neon or channel configuration of NCPC"
+msgstr ""
+
+#: classes/ncpc-product-config.php:324
+msgid ""
+"Attach this product variation to a neon or channel configuration of NCPC"
+msgstr ""
+
+#: classes/ncpc-product-config.php:350 includes/Admin.php:26
+msgid "NCPC"
+msgstr ""
+
+#: classes/ncpc-product-config.php:418
+msgid "Customize the product"
+msgstr ""
+
+#: includes/Admin.php:29
+msgid "App"
+msgstr ""
+
+#: includes/Admin.php:92
+msgid "Save"
+msgstr ""
+
+#: includes/Admin.php:93
+msgid "Delete"
+msgstr ""
+
+#: includes/Admin.php:94 includes/Admin.php:997
+msgid "Edit"
+msgstr ""
+
+#: includes/Admin.php:96
+msgid "Back"
+msgstr ""
+
+#: includes/Admin.php:97
+msgid "Reset All"
+msgstr ""
+
+#: includes/Admin.php:100
+msgid "choose a picture"
+msgstr ""
+
+#: includes/Admin.php:101
+msgid "choose a icon"
+msgstr ""
+
+#: includes/Admin.php:103
+msgid "Preview Image (optional) "
+msgstr ""
+
+#: includes/Admin.php:104
+msgid ""
+"Upload an image to display the color or gradient. Adding an image will "
+"replace the preview color."
+msgstr ""
+
+#: includes/Admin.php:107
+msgid "Popup Image (optional)"
+msgstr ""
+
+#: includes/Admin.php:108
+msgid "Example Image - displayed as popup"
+msgstr ""
+
+#: includes/Admin.php:112
+msgid "Pricing (optional) "
+msgstr ""
+
+#: includes/Admin.php:113
+msgid "None "
+msgstr ""
+
+#: includes/Admin.php:114
+msgid "Base Price"
+msgstr ""
+
+#: includes/Admin.php:115
+msgid "Price Multiplier"
+msgstr ""
+
+#: includes/Admin.php:117
+msgid "MENU"
+msgstr ""
+
+#: includes/Admin.php:118
+msgid "Manage your sign configurations"
+msgstr ""
+
+#: includes/Admin.php:119
+msgid "Get Help"
+msgstr ""
+
+#: includes/Admin.php:121
+msgid "Configuration"
+msgstr ""
+
+#: includes/Admin.php:123
+msgid "Edit the name of sign configuration"
+msgstr ""
+
+#: includes/Admin.php:124
+msgid "Do you want to remove this configuration?"
+msgstr ""
+
+#: includes/Admin.php:127
+msgid "Configurations"
+msgstr ""
+
+#: includes/Admin.php:128
+msgid "All"
+msgstr ""
+
+#: includes/Admin.php:129 includes/Admin.php:432 includes/Admin.php:436
+msgid "Name"
+msgstr ""
+
+#: includes/Admin.php:130
+msgid "Customiser ID"
+msgstr ""
+
+#: includes/Admin.php:131
+msgid "Model"
+msgstr ""
+
+#: includes/Admin.php:132 includes/Admin.php:1195
+msgid "Product Type"
+msgstr ""
+
+#: includes/Admin.php:133 includes/Admin.php:280 includes/Admin.php:285
+#: includes/Admin.php:433 includes/Admin.php:438 includes/Admin.php:511
+#: includes/Admin.php:548 includes/Admin.php:574 includes/Admin.php:619
+#: includes/Admin.php:658 includes/Admin.php:694 includes/Admin.php:727
+#: includes/Admin.php:773 includes/Admin.php:796 includes/Admin.php:860
+msgid "Actions"
+msgstr ""
+
+#: includes/Admin.php:135
+msgid "No configurations currently added"
+msgstr ""
+
+#: includes/Admin.php:136
+msgid "Add new configuration"
+msgstr ""
+
+#: includes/Admin.php:138 includes/Admin.php:354
+msgid "Step"
+msgstr ""
+
+#: includes/Admin.php:140
+msgid "Create your new sign configuration"
+msgstr ""
+
+#: includes/Admin.php:141
+msgid "Follow these steps to setup a new sign configuration."
+msgstr ""
+
+#: includes/Admin.php:142
+msgid "Enter a name for your new sign configuration"
+msgstr ""
+
+#: includes/Admin.php:145
+msgid "Choose your product type"
+msgstr ""
+
+#: includes/Admin.php:146
+msgid "Each product type has a unique set of configurable options."
+msgstr ""
+
+#: includes/Admin.php:149
+msgid "Choose a pricing model"
+msgstr ""
+
+#: includes/Admin.php:150
+msgid "Select the pricing and sizing model for your new sign configuration."
+msgstr ""
+
+#: includes/Admin.php:153 includes/Admin.php:202
+msgid "Include demo data?"
+msgstr ""
+
+#: includes/Admin.php:154
+msgid ""
+"To help you get started we can automatically add fonts, colors, prices and "
+"sizes to your new configuration."
+msgstr ""
+
+#: includes/Admin.php:156 includes/Admin.php:207
+msgid "Confirm saving sign configuration"
+msgstr ""
+
+#: includes/Admin.php:157 includes/Admin.php:208
+msgid ""
+"You have selected the following options for your new sign configuration:"
+msgstr ""
+
+#: includes/Admin.php:158 includes/Admin.php:209
+msgid "Product type"
+msgstr ""
+
+#: includes/Admin.php:159 includes/Admin.php:210
+msgid "Letter model"
+msgstr ""
+
+#: includes/Admin.php:160 includes/Admin.php:211
+msgid "Include demo data"
+msgstr ""
+
+#: includes/Admin.php:161
+msgid ""
+"Once you click \"Save and Continue\" you will <b>not be able to change the "
+"letter model or product type</b> for this sign configuration again."
+msgstr ""
+
+#: includes/Admin.php:166
+msgid "Neon signs"
+msgstr ""
+
+#: includes/Admin.php:167
+msgid "Best for flex LED / glass neon letter signs"
+msgstr ""
+
+#: includes/Admin.php:168
+msgid ""
+"Create illuminated signs in one or more colors with efficient pricing "
+"systems on all customization options"
+msgstr ""
+
+#: includes/Admin.php:171
+msgid "Channel Signs"
+msgstr ""
+
+#: includes/Admin.php:172
+msgid "Best for 2D non-lit & 3D illuminated letter signs"
+msgstr ""
+
+#: includes/Admin.php:173
+msgid ""
+"Create signs of all shapes and sizes with efficient pricing systems on all "
+"customization options"
+msgstr ""
+
+#: includes/Admin.php:178
+msgid "Simple"
+msgstr ""
+
+#: includes/Admin.php:179
+msgid "This model is recommended if you're new to the signage industry."
+msgstr ""
+
+#: includes/Admin.php:181 includes/Admin.php:192
+msgid "Fixed price per letter"
+msgstr ""
+
+#: includes/Admin.php:182
+msgid "Fixed price per line"
+msgstr ""
+
+#: includes/Admin.php:183
+msgid "Determine sign size by preset width and approximate height"
+msgstr ""
+
+#: includes/Admin.php:184
+msgid "Accurate sizing and measurements by Approximate to selected width"
+msgstr ""
+
+#: includes/Admin.php:185
+msgid "Maximum of 3 lines of text per size"
+msgstr ""
+
+#: includes/Admin.php:189
+msgid "Advanced"
+msgstr ""
+
+#: includes/Admin.php:190
+msgid ""
+"Ensure accurate pricing and sizing for your signs while creating the best "
+"experience for your customers."
+msgstr ""
+
+#: includes/Admin.php:193
+msgid "Material length pricing"
+msgstr ""
+
+#: includes/Admin.php:194
+msgid "Shipping size calculator"
+msgstr ""
+
+#: includes/Admin.php:195
+msgid "Accurate sizing and measurements auto"
+msgstr ""
+
+#: includes/Admin.php:196
+msgid "Let customers choose their own size"
+msgstr ""
+
+#: includes/Admin.php:197
+msgid "Min height for lowercase & uppercase letters"
+msgstr ""
+
+#: includes/Admin.php:203
+msgid ""
+"To help you get started we can automatically add fonts, colors, prices and "
+"sizes to your new configuration"
+msgstr ""
+
+#: includes/Admin.php:204
+msgid "Include Demo Data"
+msgstr ""
+
+#: includes/Admin.php:205
+msgid "No Include Demo Data"
+msgstr ""
+
+#: includes/Admin.php:212
+msgid ""
+"Once you click \"Save and Continue\" you will not be able to change the "
+"letter model or product type for this sign configuration again."
+msgstr ""
+
+#: includes/Admin.php:213
+msgid "Cancel"
+msgstr ""
+
+#: includes/Admin.php:214
+msgid "Save And Continue"
+msgstr ""
+
+#: includes/Admin.php:220
+msgid "Required options"
+msgstr ""
+
+#: includes/Admin.php:222 includes/Admin.php:1157
+msgid "Sizes"
+msgstr ""
+
+#: includes/Admin.php:223
+msgid "Add new size"
+msgstr ""
+
+#: includes/Admin.php:228 includes/Admin.php:263 includes/Admin.php:275
+#: includes/Admin.php:283 includes/Admin.php:373 includes/Admin.php:451
+#: includes/Admin.php:468 includes/Admin.php:528 includes/Admin.php:546
+#: includes/Admin.php:570 includes/Admin.php:616 includes/Admin.php:649
+#: includes/Admin.php:655 includes/Admin.php:675 includes/Admin.php:693
+#: includes/Admin.php:708 includes/Admin.php:726 includes/Admin.php:741
+#: includes/Admin.php:770 includes/Admin.php:786 includes/Admin.php:795
+#: includes/Admin.php:821 includes/Admin.php:840 includes/Admin.php:846
+#: includes/Admin.php:858
+msgid "Label"
+msgstr ""
+
+#: includes/Admin.php:229 includes/Admin.php:264
+msgid "The name of the size (e.g. small)"
+msgstr ""
+
+#: includes/Admin.php:232 includes/Admin.php:292 includes/Admin.php:302
+#: includes/Admin.php:305 includes/Admin.php:517 includes/Admin.php:556
+#: includes/Admin.php:586 includes/Admin.php:625 includes/Admin.php:635
+#: includes/Admin.php:650 includes/Admin.php:666 includes/Admin.php:676
+#: includes/Admin.php:699 includes/Admin.php:709 includes/Admin.php:732
+#: includes/Admin.php:778 includes/Admin.php:787 includes/Admin.php:801
+#: includes/Admin.php:822
+msgid "Description"
+msgstr ""
+
+#: includes/Admin.php:233
+msgid "e.g. Maximum 60cm (2ft) in length."
+msgstr ""
+
+#: includes/Admin.php:237
+msgid "Size Width And Lines Of Text"
+msgstr ""
+
+#: includes/Admin.php:239
+msgid "Width(centimeters)"
+msgstr ""
+
+#: includes/Admin.php:240
+msgid "This sign size will always be the width defined with this input."
+msgstr ""
+
+#: includes/Admin.php:243
+msgid "Maximum lines of text for this size"
+msgstr ""
+
+#: includes/Admin.php:244
+msgid "The number of lines of text that is allowed for this size."
+msgstr ""
+
+#: includes/Admin.php:249
+msgid "Minimum and Maximum characters allowed for this size"
+msgstr ""
+
+#: includes/Admin.php:251 includes/Admin.php:306
+msgid "Minimum Text Characters"
+msgstr ""
+
+#: includes/Admin.php:252
+msgid ""
+"The minimum number of text characters for the entire sign. The default "
+"minimum is 3 characters."
+msgstr ""
+
+#: includes/Admin.php:255
+msgid "Maximum Text Characters per line"
+msgstr ""
+
+#: includes/Admin.php:256
+msgid ""
+"The maximum number of text characters allowed per line (e.g. 20 text "
+"characters per line)."
+msgstr ""
+
+#: includes/Admin.php:268
+msgid "Text Scale"
+msgstr ""
+
+#: includes/Admin.php:269
+#, no-php-format
+msgid ""
+"Set a multiplier for the overall size of the sign size (e.g. set 1 for a "
+"100% of the signs size, 2 for 200% of the signs size)."
+msgstr ""
+
+#: includes/Admin.php:276
+msgid "Width"
+msgstr ""
+
+#: includes/Admin.php:277
+msgid "Min char"
+msgstr ""
+
+#: includes/Admin.php:278
+msgid "Max char"
+msgstr ""
+
+#: includes/Admin.php:279
+msgid "Line limite"
+msgstr ""
+
+#: includes/Admin.php:284
+msgid "Size Scale Multiplier"
+msgstr ""
+
+#: includes/Admin.php:290 includes/Admin.php:300
+msgid "Size Settings"
+msgstr ""
+
+#: includes/Admin.php:291 includes/Admin.php:301 includes/Admin.php:350
+#: includes/Admin.php:516 includes/Admin.php:555 includes/Admin.php:583
+#: includes/Admin.php:592 includes/Admin.php:624 includes/Admin.php:634
+#: includes/Admin.php:665 includes/Admin.php:698 includes/Admin.php:731
+#: includes/Admin.php:777 includes/Admin.php:800
+msgid "Title"
+msgstr ""
+
+#: includes/Admin.php:295
+msgid "Prevent size automatically switching up"
+msgstr ""
+
+#: includes/Admin.php:296
+msgid ""
+"When the amount of characters per line entered by the customer exceeds the "
+"maximum number of characters per line for the current size, the app will "
+"automatically switch to the next size with a higher character limit per "
+"line. Check this option to stop this behaviour."
+msgstr ""
+
+#: includes/Admin.php:304
+msgid "CHARACTER AND SIGN DIMENSION LIMITS"
+msgstr ""
+
+#: includes/Admin.php:307
+msgid "The minimum number of text characters for the sign."
+msgstr ""
+
+#: includes/Admin.php:311
+msgid "Maximum Sign Width"
+msgstr ""
+
+#: includes/Admin.php:314
+msgid "Unlimited Width"
+msgstr ""
+
+#: includes/Admin.php:319
+msgid "Limited width"
+msgstr ""
+
+#: includes/Admin.php:320
+msgid ""
+"Set a maximum width for the sign in centimeters. A popup will appear if the "
+"sign exceeds this width."
+msgstr ""
+
+#: includes/Admin.php:325
+msgid "Maximum Sign height"
+msgstr ""
+
+#: includes/Admin.php:328
+msgid "Unlimited height"
+msgstr ""
+
+#: includes/Admin.php:333
+msgid "Limited height"
+msgstr ""
+
+#: includes/Admin.php:334
+msgid ""
+"Set a maximum height for the sign in centimeters. A popup will appear if the "
+"sign exceeds this height."
+msgstr ""
+
+#: includes/Admin.php:339
+msgid "CUSTOM SIZING"
+msgstr ""
+
+#: includes/Admin.php:340
+msgid ""
+"Show an additional option in sizes that will allow the customer to change "
+"the width of sign using a range slider."
+msgstr ""
+
+#: includes/Admin.php:343
+msgid "Disable Custom Sizing"
+msgstr ""
+
+#: includes/Admin.php:348
+msgid "Enable Custom Sizing"
+msgstr ""
+
+#: includes/Admin.php:349
+msgid "Customers can set a custom size for their sign."
+msgstr ""
+
+#: includes/Admin.php:351 includes/Admin.php:352
+msgid "Maximum Range in centimeters"
+msgstr ""
+
+#: includes/Admin.php:353
+msgid ""
+"Maximum width that the range slider will allow. If left blank, it will "
+"default to 300cm."
+msgstr ""
+
+#: includes/Admin.php:355
+msgid "The step of evolution of the custom line."
+msgstr ""
+
+#: includes/Admin.php:362
+msgid "Do you want to remove this size ?"
+msgstr ""
+
+#: includes/Admin.php:366 includes/Admin.php:445 includes/Admin.php:472
+#: includes/Admin.php:477 includes/Admin.php:510
+msgid "Pricing"
+msgstr ""
+
+#: includes/Admin.php:367
+msgid "Add new pricing"
+msgstr ""
+
+#: includes/Admin.php:369
+msgid "Do you want to remove this pricing ?"
+msgstr ""
+
+#: includes/Admin.php:374
+msgid "The label is not shown to the customer.(Required)"
+msgstr ""
+
+#: includes/Admin.php:378
+msgid "Pricing for each size"
+msgstr ""
+
+#: includes/Admin.php:379
+msgid ""
+"Width (centimeters) Maximum lines of text for this size This sign size will "
+"always be the width defined with this input. The number of lines of text "
+"that is allowed for this size."
+msgstr ""
+
+#: includes/Admin.php:380
+msgid "Add more size"
+msgstr ""
+
+#: includes/Admin.php:383
+msgid "Size: "
+msgstr ""
+
+#: includes/Admin.php:385
+msgid "Line"
+msgstr ""
+
+#: includes/Admin.php:386
+msgid "Base price"
+msgstr ""
+
+#: includes/Admin.php:387
+msgid "Letter price"
+msgstr ""
+
+#: includes/Admin.php:392
+msgid "Letter Pricing Method"
+msgstr ""
+
+#: includes/Admin.php:394
+msgid "Fixed cost per letter"
+msgstr ""
+
+#: includes/Admin.php:397
+msgid "Letter material cost"
+msgstr ""
+
+#: includes/Admin.php:400
+msgid "Price Formula"
+msgstr ""
+
+#: includes/Admin.php:401
+msgid ""
+"Add additional size ranges to apply unique price calculations for a given "
+"size range.d"
+msgstr ""
+
+#: includes/Admin.php:404
+msgid "Size Range 1 - Starts at 0 - continue to infinity"
+msgstr ""
+
+#: includes/Admin.php:406
+msgid "Max Size Range"
+msgstr ""
+
+#: includes/Admin.php:407
+msgid ""
+"Define the maximum width and height range that the below price inputs will "
+"apply too"
+msgstr ""
+
+#: includes/Admin.php:410
+msgid "Shipping Price"
+msgstr ""
+
+#: includes/Admin.php:412
+msgid "Dynamic price based on final sign dimensions."
+msgstr ""
+
+#: includes/Admin.php:415
+msgid "Easily convert shipping price"
+msgstr ""
+
+#: includes/Admin.php:417
+msgid "Price Per Letter"
+msgstr ""
+
+#: includes/Admin.php:418
+msgid "Letter Material Cost"
+msgstr ""
+
+#: includes/Admin.php:419
+msgid "Cost of each letter for this size range."
+msgstr ""
+
+#: includes/Admin.php:420
+msgid ""
+"Cost of the material used to create the letters for this sign (e.g. flexible "
+"neon, glass)."
+msgstr ""
+
+#: includes/Admin.php:423
+msgid "Start Price - (Optional)"
+msgstr ""
+
+#: includes/Admin.php:424
+msgid "Included any additional cost (e.g. building cost)."
+msgstr ""
+
+#: includes/Admin.php:437
+msgid "Letter price Method"
+msgstr ""
+
+#: includes/Admin.php:443 includes/Admin.php:1156
+msgid "Fonts"
+msgstr ""
+
+#: includes/Admin.php:444
+msgid "Add new font"
+msgstr ""
+
+#: includes/Admin.php:448
+msgid "Google Font (default)"
+msgstr ""
+
+#: includes/Admin.php:450
+msgid "Choose google fonts"
+msgstr ""
+
+#: includes/Admin.php:452 includes/Admin.php:469
+msgid "The name of the font (e.g. Roboto)."
+msgstr ""
+
+#: includes/Admin.php:454
+msgid "Choose font variant(Required)"
+msgstr ""
+
+#: includes/Admin.php:457
+msgid "Upload"
+msgstr ""
+
+#: includes/Admin.php:459
+msgid "Upload font"
+msgstr ""
+
+#: includes/Admin.php:460
+msgid ".ttf Font File Type (Required)"
+msgstr ""
+
+#: includes/Admin.php:462
+msgid "Choose a font file"
+msgstr ""
+
+#: includes/Admin.php:463
+msgid ""
+"For best results keep the label of the font to one word only as this label "
+"is shown to the customer."
+msgstr ""
+
+#: includes/Admin.php:473
+msgid "Limit this font to a size and above (optional)"
+msgstr ""
+
+#: includes/Admin.php:474
+msgid "Every font belongs to a simple pricing model."
+msgstr ""
+
+#: includes/Admin.php:479 includes/Admin.php:483
+msgid "Minimum height for smallest letter"
+msgstr ""
+
+#: includes/Admin.php:480
+msgid "The minimum height for smallest letter in centimeter"
+msgstr ""
+
+#: includes/Admin.php:484
+msgid "The minimum height for uppercase letter in centimeter"
+msgstr ""
+
+#: includes/Admin.php:488
+msgid "Font Style"
+msgstr ""
+
+#: includes/Admin.php:489 includes/Admin.php:496 includes/Admin.php:509
+msgid "Line Height"
+msgstr ""
+
+#: includes/Admin.php:492
+msgid "Normal(default)"
+msgstr ""
+
+#: includes/Admin.php:495
+msgid "Specific Line Height"
+msgstr ""
+
+#: includes/Admin.php:505
+msgid "Do you want to remove this font ?"
+msgstr ""
+
+#: includes/Admin.php:508
+msgid "Font"
+msgstr ""
+
+#: includes/Admin.php:514
+msgid "Fonts Settings"
+msgstr ""
+
+#: includes/Admin.php:518 includes/Admin.php:667 includes/Admin.php:700
+msgid "This will display under the title."
+msgstr ""
+
+#: includes/Admin.php:525 includes/Admin.php:1158
+msgid "Colors"
+msgstr ""
+
+#: includes/Admin.php:526
+msgid "Add new color"
+msgstr ""
+
+#: includes/Admin.php:529
+msgid "The name of the color (e.g. Black)."
+msgstr ""
+
+#: includes/Admin.php:530
+msgid "Color type"
+msgstr ""
+
+#: includes/Admin.php:531
+msgid "Color "
+msgstr ""
+
+#: includes/Admin.php:533 includes/Admin.php:599 includes/Admin.php:748
+msgid "Minimum Size (optional)"
+msgstr ""
+
+#: includes/Admin.php:534 includes/Admin.php:600 includes/Admin.php:749
+msgid "Minimum Width"
+msgstr ""
+
+#: includes/Admin.php:535 includes/Admin.php:537 includes/Admin.php:601
+#: includes/Admin.php:603 includes/Admin.php:750 includes/Admin.php:752
+msgid ""
+"If value is greater then 0, then this color may be disabled when the width "
+"of the sign is less than this value."
+msgstr ""
+
+#: includes/Admin.php:536 includes/Admin.php:602 includes/Admin.php:751
+msgid "Minimum Height "
+msgstr ""
+
+#: includes/Admin.php:540 includes/Admin.php:606 includes/Admin.php:755
+msgid "Rule"
+msgstr ""
+
+#: includes/Admin.php:541 includes/Admin.php:607 includes/Admin.php:756
+msgid "Disable until one of the minimum values is reached. "
+msgstr ""
+
+#: includes/Admin.php:542 includes/Admin.php:608 includes/Admin.php:757
+msgid "Disable until both minimum values are reached"
+msgstr ""
+
+#: includes/Admin.php:547
+msgid "Color hexcode"
+msgstr ""
+
+#: includes/Admin.php:551 includes/Admin.php:612
+msgid "Do you want to remove this color ?"
+msgstr ""
+
+#: includes/Admin.php:554
+msgid "Colors Settings"
+msgstr ""
+
+#: includes/Admin.php:557
+msgid "Provide further details about your colors (e.g. 'red and green + $10')."
+msgstr ""
+
+#: includes/Admin.php:558
+msgid "Glow Effect"
+msgstr ""
+
+#: includes/Admin.php:562
+msgid "Letter type"
+msgstr ""
+
+#: includes/Admin.php:563
+msgid "Add new letter type"
+msgstr ""
+
+#: includes/Admin.php:565
+msgid "Example"
+msgstr ""
+
+#: includes/Admin.php:566
+msgid "Action "
+msgstr ""
+
+#: includes/Admin.php:567
+msgid "No letter type currently added"
+msgstr ""
+
+#: includes/Admin.php:569
+msgid "Exemple"
+msgstr ""
+
+#: includes/Admin.php:571 includes/Admin.php:859
+msgid "Type"
+msgstr ""
+
+#: includes/Admin.php:572
+msgid "Textures"
+msgstr ""
+
+#: includes/Admin.php:573
+msgid "Active"
+msgstr ""
+
+#: includes/Admin.php:577
+msgid "Do you want to remove this letter type ?"
+msgstr ""
+
+#: includes/Admin.php:581
+msgid "Settings"
+msgstr ""
+
+#: includes/Admin.php:587
+msgid "Provide further details about the colours e.g. \"red and green + $10\""
+msgstr ""
+
+#: includes/Admin.php:593
+msgid "Color"
+msgstr ""
+
+#: includes/Admin.php:595
+msgid "Visual Effect"
+msgstr ""
+
+#: includes/Admin.php:596
+msgid "Choose the visual effect for this letter part texture."
+msgstr ""
+
+#: includes/Admin.php:615
+msgid "No texture added"
+msgstr ""
+
+#: includes/Admin.php:617
+msgid "Color Hexacode"
+msgstr ""
+
+#: includes/Admin.php:618
+msgid "Visual effect"
+msgstr ""
+
+#: includes/Admin.php:622
+msgid "Face Settings"
+msgstr ""
+
+#: includes/Admin.php:626
+msgid "Provide further details about the colours e.g. red and green + $10"
+msgstr ""
+
+#: includes/Admin.php:633
+msgid "Letter Types Settings"
+msgstr ""
+
+#: includes/Admin.php:636
+msgid "This field will be displayed under the label"
+msgstr ""
+
+#: includes/Admin.php:644 includes/Admin.php:807
+msgid "Additional Options"
+msgstr ""
+
+#: includes/Admin.php:646 includes/Admin.php:1160
+msgid "Materials"
+msgstr ""
+
+#: includes/Admin.php:647
+msgid "Add new Materiel"
+msgstr ""
+
+#: includes/Admin.php:654
+msgid "No Materials found"
+msgstr ""
+
+#: includes/Admin.php:656 includes/Admin.php:771
+msgid "Popup image"
+msgstr ""
+
+#: includes/Admin.php:657 includes/Admin.php:772
+msgid "Additional pricing"
+msgstr ""
+
+#: includes/Admin.php:661
+msgid "Do you want to remove this material ?"
+msgstr ""
+
+#: includes/Admin.php:671 includes/Admin.php:1161
+msgid "Jackets"
+msgstr ""
+
+#: includes/Admin.php:672
+msgid "Add new jacket"
+msgstr ""
+
+#: includes/Admin.php:679
+msgid "Type of jacket"
+msgstr ""
+
+#: includes/Admin.php:680
+msgid ""
+"The effect will apply to the visualiser when the sign light is turned off."
+msgstr ""
+
+#: includes/Admin.php:683
+msgid "Color Exclusions"
+msgstr ""
+
+#: includes/Admin.php:684 includes/Admin.php:717 includes/Admin.php:761
+msgid "Select the colours that this jacket option will NOT be available for."
+msgstr ""
+
+#: includes/Admin.php:688
+msgid "Do you want to remove this jacket ?"
+msgstr ""
+
+#: includes/Admin.php:692
+msgid "No Jackets found"
+msgstr ""
+
+#: includes/Admin.php:704
+msgid "Backboard"
+msgstr ""
+
+#: includes/Admin.php:705
+msgid "Add new backboard"
+msgstr ""
+
+#: includes/Admin.php:712 includes/Admin.php:745
+msgid "Sign backboard visualization"
+msgstr ""
+
+#: includes/Admin.php:713
+msgid ""
+"Backboard type - Select how your backboard will display on the customer "
+"facing visualizer."
+msgstr ""
+
+#: includes/Admin.php:716 includes/Admin.php:760
+msgid "colorExclusions"
+msgstr ""
+
+#: includes/Admin.php:721
+msgid "Do you want to remove this backboard ?"
+msgstr ""
+
+#: includes/Admin.php:725
+msgid "No backboards currently added"
+msgstr ""
+
+#: includes/Admin.php:733 includes/Admin.php:779 includes/Admin.php:802
+msgid "Provide further details about your sizes."
+msgstr ""
+
+#: includes/Admin.php:737
+msgid "Backboard color"
+msgstr ""
+
+#: includes/Admin.php:738
+msgid "Add new backboard color"
+msgstr ""
+
+#: includes/Admin.php:743
+msgid "Backboard Color"
+msgstr ""
+
+#: includes/Admin.php:765
+msgid "Do you want to remove this backboard color ?"
+msgstr ""
+
+#: includes/Admin.php:769
+msgid "No backboard colors currently added"
+msgstr ""
+
+#: includes/Admin.php:783
+msgid "Mountings"
+msgstr ""
+
+#: includes/Admin.php:784
+msgid "Add new mounting"
+msgstr ""
+
+#: includes/Admin.php:790
+msgid "Do you want to remove this mounting ?"
+msgstr ""
+
+#: includes/Admin.php:794
+msgid "No mounting currently added"
+msgstr ""
+
+#: includes/Admin.php:808
+msgid "Add new additional option"
+msgstr ""
+
+#: includes/Admin.php:810
+msgid "Choose an Input Type"
+msgstr ""
+
+#: includes/Admin.php:811 includes/Admin.php:814
+msgid "This text will display above the input options."
+msgstr ""
+
+#: includes/Admin.php:813
+msgid "Set the Label and Description"
+msgstr ""
+
+#: includes/Admin.php:815
+msgid "Yes Or No"
+msgstr ""
+
+#: includes/Admin.php:816
+msgid "Image-Inputs"
+msgstr ""
+
+#: includes/Admin.php:817
+msgid "Dropdown"
+msgstr ""
+
+#: includes/Admin.php:818
+msgid "Note"
+msgstr ""
+
+#: includes/Admin.php:819
+msgid "Option included"
+msgstr ""
+
+#: includes/Admin.php:826
+msgid "Yes/No Input"
+msgstr ""
+
+#: includes/Admin.php:827
+msgid "Displays as two buttons side by side."
+msgstr ""
+
+#: includes/Admin.php:828
+msgid "Selected Value"
+msgstr ""
+
+#: includes/Admin.php:829
+msgid "Unselected Value"
+msgstr ""
+
+#: includes/Admin.php:831
+msgid "DEFAULT SELECTED VALUE"
+msgstr ""
+
+#: includes/Admin.php:832
+msgid ""
+"Choose which value is highlighted by default when the product customiser "
+"initally displays."
+msgstr ""
+
+#: includes/Admin.php:834
+msgid "Selected"
+msgstr ""
+
+#: includes/Admin.php:835
+msgid "UnSelected"
+msgstr ""
+
+#: includes/Admin.php:838
+msgid "Images as Input"
+msgstr ""
+
+#: includes/Admin.php:839
+msgid "Displays as a row of images that is selectable by the customer."
+msgstr ""
+
+#: includes/Admin.php:841 includes/Admin.php:847
+msgid "Value(Required)"
+msgstr ""
+
+#: includes/Admin.php:844
+msgid "Dropdown Input"
+msgstr ""
+
+#: includes/Admin.php:845
+msgid "Displays as a select list."
+msgstr ""
+
+#: includes/Admin.php:850
+msgid "Note Input"
+msgstr ""
+
+#: includes/Admin.php:851
+msgid ""
+"Displays as a textarea field for customers to type any additional "
+"requirements."
+msgstr ""
+
+#: includes/Admin.php:852
+msgid "Character limit (optional)"
+msgstr ""
+
+#: includes/Admin.php:853
+msgid "The maximum number of text characters for notes."
+msgstr ""
+
+#: includes/Admin.php:857
+msgid "No Additional Options currently added"
+msgstr ""
+
+#: includes/Admin.php:863
+msgid "Do you want to remove this custom additional option ?"
+msgstr ""
+
+#: includes/Admin.php:870
+msgid "General"
+msgstr ""
+
+#: includes/Admin.php:872
+msgid "Customizer Options"
+msgstr ""
+
+#: includes/Admin.php:873
+msgid "Measurement Unit"
+msgstr ""
+
+#: includes/Admin.php:874
+msgid "Show/hide Measurements"
+msgstr ""
+
+#: includes/Admin.php:875
+msgid "Decimal Format of Measurements"
+msgstr ""
+
+#: includes/Admin.php:877
+msgid "Desktop Column Order"
+msgstr ""
+
+#: includes/Admin.php:878
+msgid ""
+"Display the sidebar with all product options on the right or left hand side "
+"(this option only applies to desktop)."
+msgstr ""
+
+#: includes/Admin.php:881
+msgid "Show Switch button for Day and Night"
+msgstr ""
+
+#: includes/Admin.php:882
+msgid "Display a switch to turn default background into day or night mode."
+msgstr ""
+
+#: includes/Admin.php:886
+msgid "mobileOptions"
+msgstr ""
+
+#: includes/Admin.php:888
+msgid "Show Navigation Menu on Mobile"
+msgstr ""
+
+#: includes/Admin.php:889
+msgid "Display a navigation menu of the selections on mobile."
+msgstr ""
+
+#: includes/Admin.php:892
+msgid "Show Navigation Menu First"
+msgstr ""
+
+#: includes/Admin.php:893
+msgid ""
+"This allows the users to jump to a specific selection from the navigation "
+"menu first. Otherwise, the screen will show the first selection."
+msgstr ""
+
+#: includes/Admin.php:896
+msgid "Mobile Selection Options Display"
+msgstr ""
+
+#: includes/Admin.php:897
+msgid ""
+"Allow selection options to display as horizontally scrollable options on "
+"mobile or stacked vertically."
+msgstr ""
+
+#: includes/Admin.php:901
+msgid "Product"
+msgstr ""
+
+#: includes/Admin.php:902 includes/Admin.php:933
+msgid "No"
+msgstr ""
+
+#: includes/Admin.php:903 includes/Admin.php:934
+msgid "Yes"
+msgstr ""
+
+#: includes/Admin.php:905
+msgid "Redirect after adding a custom design to the cart"
+msgstr ""
+
+#: includes/Admin.php:906
+msgid ""
+"This options allow you to define what to do after adding a design to the "
+"cart "
+msgstr ""
+
+#: includes/Admin.php:909
+msgid "Hide add to cart button for custom products"
+msgstr ""
+
+#: includes/Admin.php:910
+msgid ""
+"This options allow you to define whether or not you want hide the add to "
+"cart button for custom products on the products page."
+msgstr ""
+
+#: includes/Admin.php:913
+msgid "Hide design buttons on shop page"
+msgstr ""
+
+#: includes/Admin.php:914
+msgid ""
+"This options allow you to show/hidethe cart button on the cart button on the "
+"customization page"
+msgstr ""
+
+#: includes/Admin.php:918
+msgid "Output"
+msgstr ""
+
+#: includes/Admin.php:920
+msgid "Output files format"
+msgstr ""
+
+#: includes/Admin.php:921
+msgid "What is your desired output files format ? "
+msgstr ""
+
+#: includes/Admin.php:924
+msgid "Output files dimensions"
+msgstr ""
+
+#: includes/Admin.php:925
+msgid "What are you desired output files dimensions ?"
+msgstr ""
+
+#: includes/Admin.php:926
+msgid "Output width"
+msgstr ""
+
+#: includes/Admin.php:927
+msgid "Output height"
+msgstr ""
+
+#: includes/Admin.php:928
+msgid "Unit"
+msgstr ""
+
+#: includes/Admin.php:929
+msgid "Use dimensions"
+msgstr ""
+
+#: includes/Admin.php:932
+msgid "Send Design By Email"
+msgstr ""
+
+#: includes/Admin.php:936
+msgid "Manufacturer Email"
+msgstr ""
+
+#: includes/Admin.php:937
+msgid ""
+"An email is sent every time a custom sign is marked as PAID on the shopify "
+"order."
+msgstr ""
+
+#: includes/Admin.php:938
+msgid ""
+"Receiver email (if you have more than one, please separate them with '|' )"
+msgstr ""
+
+#: includes/Admin.php:939
+msgid "The store’s default email will be used if kept blank"
+msgstr ""
+
+#: includes/Admin.php:940
+msgid "Mail Subject"
+msgstr ""
+
+#: includes/Admin.php:941
+msgid "Manufacturer email template"
+msgstr ""
+
+#: includes/Admin.php:948
+msgid "Language and Image"
+msgstr ""
+
+#: includes/Admin.php:950
+msgid "Main"
+msgstr ""
+
+#: includes/Admin.php:951
+msgid "Header"
+msgstr ""
+
+#: includes/Admin.php:952
+msgid "Text Box Label"
+msgstr ""
+
+#: includes/Admin.php:954
+msgid "Line count"
+msgstr ""
+
+#: includes/Admin.php:955
+msgid ""
+"Preceded by the current number of lines over the total allowable (e.g. 1/3 "
+"lines)."
+msgstr ""
+
+#: includes/Admin.php:958
+msgid "Max characters"
+msgstr ""
+
+#: includes/Admin.php:959
+msgid ""
+"Preceded by the maximum number of characters per line (e.g. 20 characters "
+"max per line for current size)."
+msgstr ""
+
+#: includes/Admin.php:962
+msgid "Price and button section"
+msgstr ""
+
+#: includes/Admin.php:963
+msgid ""
+"This section refers to the sticky add to cart / review button section "
+"located at the bottom of app"
+msgstr ""
+
+#: includes/Admin.php:966
+msgid "Add to cart button"
+msgstr ""
+
+#: includes/Admin.php:967
+msgid "Add To cart Button Label."
+msgstr ""
+
+#: includes/Admin.php:970
+msgid "Finish button"
+msgstr ""
+
+#: includes/Admin.php:971
+msgid "Finish button Label."
+msgstr ""
+
+#: includes/Admin.php:974
+msgid "Text before price value"
+msgstr ""
+
+#: includes/Admin.php:975
+msgid "Displays before the price value"
+msgstr ""
+
+#: includes/Admin.php:978
+msgid "Text after price value"
+msgstr ""
+
+#: includes/Admin.php:979
+msgid "Displays after the price value"
+msgstr ""
+
+#: includes/Admin.php:982
+msgid "Text Align"
+msgstr ""
+
+#: includes/Admin.php:983 includes/Admin.php:987
+msgid "display instead of Text Align"
+msgstr ""
+
+#: includes/Admin.php:986
+msgid "Text Align values"
+msgstr ""
+
+#: includes/Admin.php:988
+msgid "Left"
+msgstr ""
+
+#: includes/Admin.php:989
+msgid "Center"
+msgstr ""
+
+#: includes/Admin.php:990
+msgid "Right"
+msgstr ""
+
+#: includes/Admin.php:993
+msgid "Summary"
+msgstr ""
+
+#: includes/Admin.php:994
+msgid "Summary header text"
+msgstr ""
+
+#: includes/Admin.php:998
+msgid "Edit button text"
+msgstr ""
+
+#: includes/Admin.php:1001
+msgid "Text"
+msgstr ""
+
+#: includes/Admin.php:1002
+msgid "Text to display on the default skin for the text section"
+msgstr ""
+
+#: includes/Admin.php:1005
+msgid "Additionals Options"
+msgstr ""
+
+#: includes/Admin.php:1006
+msgid ""
+"Text that will be displayed as the title for the additional options section"
+msgstr ""
+
+#: includes/Admin.php:1009
+msgid "Remaining characters"
+msgstr ""
+
+#: includes/Admin.php:1010
+msgid "Text to display for number of characters remaining"
+msgstr ""
+
+#: includes/Admin.php:1013
+msgid "Minimum"
+msgstr ""
+
+#: includes/Admin.php:1014
+msgid ""
+"Preceded by the minimum number of characters for the size (for example 20 "
+"characters minimum for the current size)."
+msgstr ""
+
+#: includes/Admin.php:1018
+msgid "Customizer design"
+msgstr ""
+
+#: includes/Admin.php:1019
+msgid "Custom design link"
+msgstr ""
+
+#: includes/Admin.php:1021
+msgid "Enable custom design link"
+msgstr ""
+
+#: includes/Admin.php:1022
+msgid ""
+"Enable this to display a link to direct customers to another page on your "
+"site, this will display as one of the first options on desktop and mobile."
+msgstr ""
+
+#: includes/Admin.php:1025
+msgid "Custom Design Link"
+msgstr ""
+
+#: includes/Admin.php:1026
+msgid ""
+"URL to redirect customers on your store that will allow for more complex "
+"graphic design quote submissions."
+msgstr ""
+
+#: includes/Admin.php:1028
+msgid "Phrase for link to submit custom design page"
+msgstr ""
+
+#: includes/Admin.php:1031
+msgid "Visualizer"
+msgstr ""
+
+#: includes/Admin.php:1033
+msgid "Default Text"
+msgstr ""
+
+#: includes/Admin.php:1034
+msgid ""
+"This will be displayed as the signs text when the visualizer is first loaded"
+msgstr ""
+
+#: includes/Admin.php:1037
+msgid "On/Off buttons"
+msgstr ""
+
+#: includes/Admin.php:1038
+msgid "Visualizer On"
+msgstr ""
+
+#: includes/Admin.php:1039
+msgid "Visualizer Off"
+msgstr ""
+
+#: includes/Admin.php:1040
+msgid "Visualizer Light"
+msgstr ""
+
+#: includes/Admin.php:1041
+msgid "Visualizer Dark"
+msgstr ""
+
+#: includes/Admin.php:1044
+msgid "Text Icon"
+msgstr ""
+
+#: includes/Admin.php:1045
+msgid "Font Icon"
+msgstr ""
+
+#: includes/Admin.php:1046
+msgid "size Icon"
+msgstr ""
+
+#: includes/Admin.php:1047
+msgid "Letter Type Icon"
+msgstr ""
+
+#: includes/Admin.php:1048
+msgid "Color Icon"
+msgstr ""
+
+#: includes/Admin.php:1049
+msgid "Material Icon"
+msgstr ""
+
+#: includes/Admin.php:1050
+msgid "Jacket Icon"
+msgstr ""
+
+#: includes/Admin.php:1051
+msgid "Mounting Icon"
+msgstr ""
+
+#: includes/Admin.php:1052
+msgid "Backboard Icon"
+msgstr ""
+
+#: includes/Admin.php:1053
+msgid "Backboard Color Icon"
+msgstr ""
+
+#: includes/Admin.php:1054
+msgid "Additional Options Icon"
+msgstr ""
+
+#: includes/Admin.php:1056
+msgid "The icon to display on the skin on the page. Must be an svg code"
+msgstr ""
+
+#: includes/Admin.php:1061
+msgid "Images"
+msgstr ""
+
+#: includes/Admin.php:1062
+msgid "Preview images"
+msgstr ""
+
+#: includes/Admin.php:1063
+msgid "Review images"
+msgstr ""
+
+#: includes/Admin.php:1065
+msgid "Enable Preview Images"
+msgstr ""
+
+#: includes/Admin.php:1066
+msgid "If ticked, the preview images will be shown on the visualizer screen."
+msgstr ""
+
+#: includes/Admin.php:1069
+msgid "Display default blue/gray background image"
+msgstr ""
+
+#: includes/Admin.php:1070
+msgid "If ticked this image will display before other images"
+msgstr ""
+
+#: includes/Admin.php:1073
+msgid "Enable Review Screen Images"
+msgstr ""
+
+#: includes/Admin.php:1074
+msgid "If ticked, the preview images will be shown on the review screen."
+msgstr ""
+
+#: includes/Admin.php:1077
+msgid "Enable Review Image"
+msgstr ""
+
+#: includes/Admin.php:1078
+msgid ""
+"If option not ticked, the image showing the customization on the review "
+"screen will not be displayed."
+msgstr ""
+
+#: includes/Admin.php:1081
+msgid "choose the scenes"
+msgstr ""
+
+#: includes/Admin.php:1086
+msgid "Theme Color"
+msgstr ""
+
+#: includes/Admin.php:1087
+msgid "Choose  Skin"
+msgstr ""
+
+#: includes/Admin.php:1088
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/Admin.php:1089
+msgid "Choose your customizer appearance"
+msgstr ""
+
+#: includes/Admin.php:1090
+msgid "Write custom css"
+msgstr ""
+
+#: includes/Admin.php:1091
+msgid "Write custom css here"
+msgstr ""
+
+#: includes/Admin.php:1093
+msgid "Theme settings"
+msgstr ""
+
+#: includes/Admin.php:1095
+msgid "Leave options open"
+msgstr ""
+
+#: includes/Admin.php:1096
+msgid "yes"
+msgstr ""
+
+#: includes/Admin.php:1097
+msgid "no"
+msgstr ""
+
+#: includes/Admin.php:1098
+msgid ""
+"This option will allow you to leave all skin options open or not, even when "
+"they are not clicked."
+msgstr ""
+
+#: includes/Admin.php:1102
+msgid "Theme colors"
+msgstr ""
+
+#: includes/Admin.php:1103
+msgid "Light Mode"
+msgstr ""
+
+#: includes/Admin.php:1104
+msgid "Dark Mode"
+msgstr ""
+
+#: includes/Admin.php:1106
+msgid "Background Color"
+msgstr ""
+
+#: includes/Admin.php:1107 includes/Admin.php:1130
+msgid "Title Color"
+msgstr ""
+
+#: includes/Admin.php:1108 includes/Admin.php:1131
+msgid "Description Color"
+msgstr ""
+
+#: includes/Admin.php:1109
+msgid "Button Hover Color"
+msgstr ""
+
+#: includes/Admin.php:1110
+msgid "Button Text Color"
+msgstr ""
+
+#: includes/Admin.php:1111
+msgid "Active Button Color"
+msgstr ""
+
+#: includes/Admin.php:1112
+msgid "Active Button Hover Color"
+msgstr ""
+
+#: includes/Admin.php:1113
+msgid "Active Button Text Color"
+msgstr ""
+
+#: includes/Admin.php:1114
+msgid "Before Price Color"
+msgstr ""
+
+#: includes/Admin.php:1115
+msgid "Price Background Color"
+msgstr ""
+
+#: includes/Admin.php:1116
+msgid "Price Color"
+msgstr ""
+
+#: includes/Admin.php:1117
+msgid "After Price Color"
+msgstr ""
+
+#: includes/Admin.php:1118
+msgid "Options Section Background Color"
+msgstr ""
+
+#: includes/Admin.php:1119
+msgid "Option Border Color"
+msgstr ""
+
+#: includes/Admin.php:1120
+msgid "Option Text Color"
+msgstr ""
+
+#: includes/Admin.php:1121
+msgid "Active Option Border Color"
+msgstr ""
+
+#: includes/Admin.php:1122
+msgid "Active Option Text Color"
+msgstr ""
+
+#: includes/Admin.php:1123
+msgid "Color of measuring bar Text"
+msgstr ""
+
+#: includes/Admin.php:1124
+msgid "Color measuring bar"
+msgstr ""
+
+#: includes/Admin.php:1125 includes/Admin.php:1146
+msgid "Finish Modal Color "
+msgstr ""
+
+#: includes/Admin.php:1126 includes/Admin.php:1147
+msgid "Finish Modal Loader Color "
+msgstr ""
+
+#: includes/Admin.php:1129
+msgid "Dark Background Color"
+msgstr ""
+
+#: includes/Admin.php:1132
+msgid "Dark Button Hover Color"
+msgstr ""
+
+#: includes/Admin.php:1133
+msgid "Dark Button Text Color"
+msgstr ""
+
+#: includes/Admin.php:1134
+msgid "Dark Active Button Color"
+msgstr ""
+
+#: includes/Admin.php:1135
+msgid "Dark Active Button Hover Color"
+msgstr ""
+
+#: includes/Admin.php:1136
+msgid "Dark Active Button Text Color"
+msgstr ""
+
+#: includes/Admin.php:1137
+msgid "Dark Before Price Color"
+msgstr ""
+
+#: includes/Admin.php:1138
+msgid "Dark Price Background Color"
+msgstr ""
+
+#: includes/Admin.php:1139
+msgid "Dark Price Color"
+msgstr ""
+
+#: includes/Admin.php:1140
+msgid "Dark After Price Color"
+msgstr ""
+
+#: includes/Admin.php:1141
+msgid "Dark Options Section Background Color"
+msgstr ""
+
+#: includes/Admin.php:1142
+msgid "Dark Option Border Color"
+msgstr ""
+
+#: includes/Admin.php:1143
+msgid "Dark Option Text Color"
+msgstr ""
+
+#: includes/Admin.php:1144
+msgid "Dark Active Option Border Color"
+msgstr ""
+
+#: includes/Admin.php:1145
+msgid "Dark Active Option Text Color"
+msgstr ""
+
+#: includes/Admin.php:1152
+msgid "Sort Option Order"
+msgstr ""
+
+#: includes/Admin.php:1153
+msgid "Order your configurator items"
+msgstr ""
+
+#: includes/Admin.php:1155
+msgid "Text Form"
+msgstr ""
+
+#: includes/Admin.php:1159
+msgid "Letter Types"
+msgstr ""
+
+#: includes/Admin.php:1162
+msgid "Mounting"
+msgstr ""
+
+#: includes/Admin.php:1163
+msgid "Backboards"
+msgstr ""
+
+#: includes/Admin.php:1164
+msgid "BackboardColors"
+msgstr ""
+
+#: includes/Admin.php:1165
+msgid "AdditionalOptions"
+msgstr ""
+
+#: includes/Admin.php:1172
+msgid "Global Settings"
+msgstr ""
+
+#: includes/Admin.php:1174
+msgid "License"
+msgstr ""
+
+#: includes/Admin.php:1175
+msgid "Enter the license key"
+msgstr ""
+
+#: includes/Admin.php:1178
+msgid "Configuration Page"
+msgstr ""
+
+#: includes/Admin.php:1179
+msgid "Select the configuration page"
+msgstr ""
+
+#: includes/Admin.php:1180
+msgid "Add New"
+msgstr ""
+
+#: includes/Admin.php:1182
+msgid "Enter name of new configuration page"
+msgstr ""
+
+#: includes/Admin.php:1187
+msgid "Tutorial"
+msgstr ""
+
+#: includes/Admin.php:1188
+msgid "Documentation"
+msgstr ""
+
+#: includes/Admin.php:1189
+msgid "FAQ"
+msgstr ""
+
+#: includes/Admin.php:1190
+msgid "Support"
+msgstr ""
+
+#: includes/Admin.php:1193
+msgid "Demos"
+msgstr ""
+
+#: includes/Admin.php:1194
+msgid "Theme"
+msgstr ""
+
+#: includes/Admin.php:1196
+msgid "Pricing Mode"
+msgstr ""
+
+#: includes/Admin.php:1199
+msgid "Web Site"
+msgstr ""
+
+#: includes/Api/Admin/Configs.php:158
+msgid "Registration failed"
+msgstr ""
+
+#: includes/Api/Admin/Configs.php:161
+msgid "Missing parameters error"
+msgstr ""
+
+#: includes/Api/Admin/Configs.php:165
+msgid "You can only create one configuration in this version of the plugin"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Themes.php:74
+msgid "No Settings found"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Themes.php:79
+msgid "No themes Settings found"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Themes.php:82
+#: includes/Api/Admin/Settings/Themes.php:85
+#: includes/Api/Admin/Settings/Themes.php:118
+#: includes/Api/Admin/Settings/Themes.php:121
+msgid "Custom ID invalid"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Themes.php:101
+#: includes/Api/Admin/Settings/Themes.php:110
+msgid "Update of skin options in themes settings failed"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Themes.php:108
+msgid "Skin options in themes settings updated successfully"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Themes.php:113
+msgid "No change observed skin options in themes settings failed"
+msgstr ""
+
+#: includes/Api/Globals-Settings/Global-Settings.php:112
+msgid "None"
+msgstr ""
+
+#: includes/functions.php:49
+msgid "Product successfully added to cart."
+msgstr ""
+
+#: includes/functions.php:59
+msgid ""
+"A problem occured while adding the product to the cart. Please try again."
+msgstr ""
+
+#: neon-channel-product-customizer-free.php:239
+msgid ""
+"To have more features like backboards, additional options and even more "
+"upgrade to one of our higher versions, Pro or Starter 🤘"
+msgstr ""
+
+#: neon-channel-product-customizer-free.php:241
+msgid "Do it now"
+msgstr ""
+
+#: neon-channel-product-customizer-free.php:241
+msgid "Go To Pro"
+msgstr ""
+
+#: neon-channel-product-customizer-free.php:347
+#: neon-channel-product-customizer-free.php:363
+msgid "Customization page not found"
+msgstr ""
+
+#: neon-channel-product-customizer-free.php:349
+#: neon-channel-product-customizer-free.php:365
+msgid ""
+"To display the configurator on a page without a short code, please select "
+"the page on which it should be displayed. Click "
+msgstr ""
+
+#: neon-channel-product-customizer-free.php:350
+#: neon-channel-product-customizer-free.php:366
+msgid "here"
+msgstr ""
+
+#: neon-channel-product-customizer-free.php:389
+#: neon-channel-product-customizer-free.php:406
+msgid "Thanks for installing NCPC, you glow! 🤘"
+msgstr ""
+
+#: neon-channel-product-customizer-free.php:391
+msgid ""
+"To avoid performance problems we recommend at least version 3.4 of "
+"Woocommerce."
+msgstr ""
+
+#: neon-channel-product-customizer-free.php:393
+#: neon-channel-product-customizer-free.php:410
+msgid "WooCommerce activated"
+msgstr ""
+
+#: neon-channel-product-customizer-free.php:393
+#: neon-channel-product-customizer-free.php:410
+msgid "Activate WooCommerce"
+msgstr ""
+
+#: neon-channel-product-customizer-free.php:393
+#: neon-channel-product-customizer-free.php:410
+msgid "Install WooCommerce"
+msgstr ""
+
+#: neon-channel-product-customizer-free.php:408
+msgid ""
+"To enable eCommerce features you need to install or activate the WooCommerce "
+"plugin."
+msgstr ""
+
+#: neon-channel-product-customizer-free.php:470
+msgid "or"
+msgstr ""
+
+#: neon-channel-product-customizer-free.php:471
+msgid "learn more"
+msgstr ""
+
+#: neon-channel-product-customizer-free.php:514
+msgid ""
+"We recommend setting your permalinks to \"/%postname%/\" to improve natural "
+"SEO.w! 🤘"
+msgstr ""
+
+#: neon-channel-product-customizer-free.php:516
+msgid "To do this, go to"
+msgstr ""
+
+#: neon-channel-product-customizer-free.php:516
+msgid "Settings > Permanent links"
+msgstr ""

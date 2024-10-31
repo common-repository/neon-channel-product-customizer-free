@@ -1,0 +1,133 @@
+table.wp-list-table #is_ncpc_customizable {
+  width: 90px;
+}
+td.is_ncpc_customizable.column-is_ncpc_customizable {
+  font-size: 15px;
+  font-weight: 600;
+}
+#toplevel_page_ncpc .wp-menu-image {
+  margin: 0 16px;
+  position: relative !important;
+  text-align: unset !important;
+}
+#toplevel_page_ncpc .wp-menu-image img {
+  height: 100% !important;
+  padding: 0 !important;
+  position: absolute !important;
+  width: 100% !important;
+}
+.config-page-error {
+  border-radius: 10px;
+  box-shadow: 0 0 5px 0 #444040 !important;
+  color: #f80606 !important;
+  display: flex;
+  flex-direction: column;
+  font-weight: 800;
+  justify-content: center;
+  margin: 0 0 10px;
+  padding: 20px 15px !important;
+}
+.ncpc-notice-nux {
+  align-items: center;
+  background: #e7f5f9;
+  display: flex;
+}
+.ncpc-notice-nux .ncpc-icon {
+  background: #fff;
+  border-radius: 100%;
+  display: block;
+  flex-shrink: 0;
+  height: 40px;
+  margin: 20px 17px 20px 5px;
+  position: relative;
+  width: 40px;
+}
+.ncpc-notice-nux h2 {
+  font-size: 13.5px !important;
+  font-weight: 600 !important;
+}
+.ncpc-notice-nux .ncpc-icon img {
+  bottom: 0;
+  box-sizing: border-box;
+  left: 0;
+  margin: auto;
+  max-width: 100%;
+  padding: 12px;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.ncpc-product-links {
+  align-items: center;
+  display: flex;
+  gap: 40px;
+  justify-content: flex-start;
+}
+.ncpc-product-links .ncpc-cart-product-preview,
+.ncpc-product-links a {
+  background-color: gray;
+  border-radius: 2px;
+  color: #fff;
+  cursor: pointer !important;
+  font-weight: 600;
+  padding: 5px 10px;
+  text-decoration: none !important;
+}
+.ncpc-custom-options-info {
+  align-items: center;
+  border-left: 0 solid transparent;
+  border-right: 0 solid transparent;
+  border-top: 2px solid #afadad;
+  display: flex;
+  gap: 10px;
+  justify-content: start;
+  padding: 10px 0 10px 5px;
+}
+.ncpc-custom-options-info label {
+  font-family: Franklin Gothic Medium, Arial Narrow, Arial, sans-serif;
+  font-size: medium;
+  font-weight: 600;
+}
+.ncpc-custom-options-info .ncpc-cart-color-option {
+  height: 50px;
+  width: 50px;
+}
+.ncpc_config_data div {
+  align-content: center !important;
+  align-items: center !important;
+  display: flex !important;
+  justify-content: center !important;
+  padding: 5px !important;
+}
+.ncpc_config_data div h2 {
+  color: #141414 !important;
+  font-weight: 500 !important;
+}
+.ncpc_config_data div select {
+  background-color: hsla(260, 9%, 94%, 0.872) !important;
+  padding: 5px !important;
+}
+.ncpc-grid {
+  display: grid !important;
+  gap: 10px !important;
+}
+.ncpc-col {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+@keyframes pulseGradient {
+  0%,
+  to {
+    background-position: 200% 50%;
+    background-size: 200% 100%;
+    opacity: 0.5;
+  }
+  50% {
+    background-position: -100% 50%;
+    background-size: 200% 100%;
+    opacity: 1;
+  }
+}
+#ncpc-configurator-loader .ncpc-loader-container {
+  animation: pulseGradient 1.5s ease infinite;
+}

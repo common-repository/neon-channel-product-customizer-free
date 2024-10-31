@@ -1,0 +1,40 @@
+.lilScroll::-webkit-scrollbar {
+  display: none;
+  overflow: scroll;
+}
+#ncpc-config-default-search {
+  height: 35px;
+  padding: 0 30px !important;
+}
+.convertShippingPriceIcon {
+  color: #095fe0;
+}
+.pricingInputAddPadding {
+  padding: 0 40px !important;
+}
+.deleteNumberCusorOnInput {
+  -moz-appearance: none !important;
+  padding: 0 45px !important;
+}
+.deleteNumberCusorOnInput::-ms-clear {
+  display: none !important;
+}
+.deleteNumberCusorOnInput::-webkit-inner-spin-button,
+.deleteNumberCusorOnInput::-webkit-outer-spin-button {
+  -webkit-appearance: none !important;
+}
+.ncpc-field-required {
+  border: 2px solid red !important;
+  color: red !important;
+}
+.ncpc-field-required-description {
+  color: red !important;
+}
+.textarea-not-resize {
+  resize: none !important;
+}
+.sortable-chosen {
+  background-color: gray !important;
+  color: #fff !important;
+  font-weight: 700 !important;
+}
